@@ -1,0 +1,25 @@
+. {
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    background-color: tan;
+}
+
+header {
+    width: 100%;
+    height: 30px;
+    text-align: right;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    border: violet bottom:10px; 
+    
+}
+
+li {
+   display: inline; 
+   
+}
+ul {
+    
+}
